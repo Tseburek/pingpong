@@ -1,3 +1,6 @@
+#GITHUB: https://github.com/Tseburek/pingpong
+#sealt saab palli pildi ning aluse pildi.
+
 import pygame
 
 # Initsialiseeri pygame
